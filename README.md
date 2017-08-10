@@ -55,13 +55,13 @@ Please let me know if you have any questions, or if you need additional time to 
 1. Create a basic Chessboard component
 2. Build out a 8x8 square board with standard chess rank/file notation
  
-# add interactions to the board
+# Add interactions to the board
 1. Set hover on the squares to change background color to a shade of orange
 2. Set logic in board.component such that when a square is clicked its background is set to the hover color
 3. Set logic in board.component such that when a second square is clicked its background is set to the hover color
 4. Set logic in board.component such that after two squares are selected, the hover is disabled and the clickability is disabled.
 
-#TODO:
+#TODO: 
 1. Enable Clear Selection button
 2. Enable Calculation - Implement a version of Dijkstra's algorithm or A* algorithm?
    * https://rosettacode.org/wiki/Knight%27s_tour
