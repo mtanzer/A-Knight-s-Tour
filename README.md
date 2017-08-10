@@ -47,7 +47,7 @@ But primarily, I'd like you to showcase a UI framework that you are familiar wit
 (Angular, React, Bootstrap, etc.) to present the web application.
  
 Please let me know if you have any questions, or if you need additional time to complete the assignment.
-# ------------------------------------------------------------------- #
+
 # Mockup
 None yet.
 
