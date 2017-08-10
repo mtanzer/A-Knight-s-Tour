@@ -1,0 +1,30 @@
+.square {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+.hover:hover {
+  background-color: #dd770b;
+}
+
+.square-active {
+  background-color: #dd770b;
+}
+
+.square-label {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  color: #100251;
+  padding: 2px;
+}
+
+.light {
+  background-color: #edd8c0;
+}
+
+.dark {
+  background-color: #4c2901;
+  color: #ccbaa7;
+}
