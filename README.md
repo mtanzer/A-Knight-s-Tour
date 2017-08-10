@@ -66,4 +66,4 @@ None yet.
 2. Enable Calculation - Implement a version of Dijkstra's algorithm or A* algorithm?
    * https://rosettacode.org/wiki/Knight%27s_tour
    * http://www.techiedelight.com/chess-knight-problem-find-shortest-path-source-destination/
-3. Wrap up - Make things look really nice.
+3. Wrap up - Make things look really nice and usable.
