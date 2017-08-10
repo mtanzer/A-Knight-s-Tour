@@ -1,5 +1,3 @@
-# ConstantTherapy
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
 ## Development server
@@ -28,9 +26,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-# Constant Therapy Code Challenge
-Mahendra: mahendra.advani@constant-therapy.com
-Veera: veera.anantha@constant-therapy.com
+# Code Challenge
 
 To get a better sense of your UI/UX, design and coding abilities, 
 I would like to propose this small project for you to undertake over the next 24 hours 
