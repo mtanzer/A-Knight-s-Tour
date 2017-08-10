@@ -47,13 +47,13 @@ But primarily, I'd like you to showcase a UI framework that you are familiar wit
 (Angular, React, Bootstrap, etc.) to present the web application.
  
 Please let me know if you have any questions, or if you need additional time to complete the assignment.
- 
+# ------------------------------------------------------------------- #
 # Mockup
-
+None yet.
 
 # Create am 8x8 board using standard chess notation
-1. Create a basic Chessboard component
-2. Build out a 8x8 square board with standard chess rank/file notation
+1. Created a basic Chessboard component
+2. Built out a 8x8 square board with standard chess rank/file notation
  
 # Add interactions to the board
 1. Set hover on the squares to change background color to a shade of orange

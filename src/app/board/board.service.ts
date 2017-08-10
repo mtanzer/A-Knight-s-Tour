@@ -21,7 +21,7 @@ export class BoardService {
     let isWhite = false;
     let count = 0;
 
-    _.map(this.board.rank, (item, key, items) => {
+    _.forEach(this.board.rank, (item, key, items) => {
 
       squares[key] = _.map(items, (item) => {
 
